@@ -1,0 +1,127 @@
+commit 0873f320d0b96bf69d3f0ae7a77a9c68910c2950
+Author: Kevin Xu <kevin.xu@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 13:19:16 2023 +0100
+
+    rearrangement des fichier avec modification qui implique
+
+commit 64986fa28d52b7c609b232b5f420828eb81336c9
+Author: Kevin Xu <kevin.xu@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 13:13:36 2023 +0100
+
+    oublie du main
+
+commit 0d60fdf5ec71fca493dd7c7ad387cf6c04f69ac7
+Author: Kevin Xu <kevin.xu@edu.univ-eiffel.fr>
+Date:   Thu Jan 12 13:11:28 2023 +0100
+
+    tableaux des score fini
+
+commit 2765b0961bf7b8b0a8145a1d341218f7dee91254
+Author: William Zinsou <will@AirdeWilliam2.lan>
+Date:   Wed Jan 11 18:10:26 2023 +0100
+
+    Ajout des reliques avec toutes les interactions qui lui sont liées, quelques bugs fixés
+
+commit a534411640d7cb2ad02b21b97dadcfbc67bd2468
+Author: Kevin Xu <kevin.xu@edu.univ-eiffel.fr>
+Date:   Mon Jan 9 17:30:55 2023 +0100
+
+    ajout precedent fait par WIllian Zinsou mais du a des probleme git ajoute par Kevin Xu
+
+commit 251410cd429bec49dbceaa45ac79e99c2ab1a226
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Mon Jan 9 16:14:16 2023 +0100
+
+    Ajout des pouvoir
+
+commit 434fe7b7f709a8cda957108ccaf9827ae1b8ce30
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Sun Jan 8 15:19:30 2023 +0100
+
+    correction de quelque pb
+
+commit 5fa7d9b4ebde2bcb9c9756bf45a703d035b4ae7f
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Sat Jan 7 15:43:54 2023 +0100
+
+    Mana visible
+
+commit a30180adacf2337ac30afe82ce894cf05abafd64
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Fri Jan 6 15:25:51 2023 +0100
+
+    correction de certain erreur et creation du classement (imcomplete)
+
+commit 709eb87b09b92f04c5d2eab46b897f00c2cd02ba
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Tue Jan 3 19:29:14 2023 +0100
+
+    X
+    X
+    ¨x
+
+commit 4f8258369aafc30bc654c3c0b15c14510ebece1d
+Author: XU KEVIN <kevin.xu@heckel02.u-pem.fr>
+Date:   Tue Jan 3 15:31:59 2023 +0100
+
+    modification de player.h
+
+commit d6d295e4a7fee4556be87c6d5283be163c8d0143
+Author: XU KEVIN <kevin.xu@heckel02.u-pem.fr>
+Date:   Tue Jan 3 12:24:54 2023 +0100
+
+    appuie 2 touche possible
+
+commit 429613a4e2acb337f51359e8b3cd61b2b3ec3469
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Mon Jan 2 16:03:15 2023 +0100
+
+    rajoute du mana dans la map
+
+commit 6eb031cd6fa37a346bd21365bf8744394e091a76
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Sat Dec 31 15:06:11 2022 +0100
+
+    Ajoute de garde avec mouvement et detection du joueur
+
+commit fe0bd7c2d199daf063f71fb83681e3e1334b9f32
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Wed Dec 14 13:29:20 2022 +0100
+
+    agrandissement de l'affichage
+
+commit 8c90cdeb0def0421ba23d133aa32d6f992d8198a
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Wed Dec 14 13:23:05 2022 +0100
+
+    update de la collision des mur
+
+commit ad06c7e526a4929571c4f309ccd9cb1b5aa8b9ac
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Tue Dec 13 17:03:18 2022 +0100
+
+    Deplacement avec touche maintenue et hitbox des murs
+
+commit 7fd6b36f8a73dc71a0f333ef281e47be264eafd4
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Sun Dec 11 15:20:05 2022 +0100
+
+    Deplacement du joueur avec affichage graphique
+
+commit 3976990a8c9ff7e20d4706acb465f11e1022ee20
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Thu Dec 8 15:55:06 2022 +0100
+
+    main
+
+commit cc09bc72b7679c1e774ea4ff64ab8e758aa19430
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Thu Dec 8 14:21:20 2022 +0100
+
+    test
+
+commit 7d6656bae0084f81c8620a561f4288d63dea0e8d
+Author: Kevin XU <kevin.xu@edu.univ-eiffel.fr>
+Date:   Thu Dec 8 14:15:41 2022 +0100
+
+    Labyrinthe fini
